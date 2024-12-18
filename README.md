@@ -59,5 +59,5 @@
 - Crear la migración:
     `dotnet ef migrations add <NombreDeLaMigracion> `
 - Actualizar bd:
-   ` dotnet update-database`
+   ` dotnet ef database update`
 
